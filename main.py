@@ -1,0 +1,3 @@
+Guild.xyz verification
+Timestamp: 2025-10-31T17:46:53.160Z
+Commit: Add multi-language support
